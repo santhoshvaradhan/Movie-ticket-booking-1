@@ -39,7 +39,7 @@ mvn spring-boot:run
 java -jar target/booking-1.0.0.jar
 ```
 
-The app will start at **http://localhost:8080**
+The app will start at **http://localhost:8000**
 
 ## Default Credentials (auto-seeded)
 | Role  | Email              | Password    |
@@ -62,7 +62,7 @@ The app will start at **http://localhost:8080**
 | `/pages/theaters.html`      | Theaters             |
 
 ## API Documentation
-Swagger UI: **http://localhost:8080/swagger-ui.html**
+Swagger UI: **http://localhost:8000/swagger-ui.html**
 
 ## API Endpoints
 
